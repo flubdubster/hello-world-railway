@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-railway",
+  "version": "1.0.0",
+  "description": "Mini Hello World website deployed on Railway via GitHub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
